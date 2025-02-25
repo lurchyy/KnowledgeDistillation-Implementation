@@ -1,0 +1,6 @@
+.vscode
+.dist
+distilbert-base-uncased-finetuned-clinc-student
+student_model
+teacher_model
+0.20.1
